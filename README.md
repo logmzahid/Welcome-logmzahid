@@ -10,7 +10,7 @@ Debugging as I go and adapting to new tools and technologies.
 - **Portfolio Website** (in progress): A personal project to showcase my learning journey and future projects.
 
 ## Contact
-- 📫 Email: [mzahid.dev404@gmail.com](mailto:mzahid.dev404@gmail.com)  
+- 📫 Email: [logmzahid@gmail.com](mailto:logmzahid@gmail.com)  
 - 🌐 [X](https://x.com/mzahiddev404)
 
 
